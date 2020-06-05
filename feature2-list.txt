@@ -1,2 +1,4 @@
 - This is my first change into the feature2 branch
 - This is my first change into the feature2 branch
+- ...
+- This is my N-th change into the feature2 branch
